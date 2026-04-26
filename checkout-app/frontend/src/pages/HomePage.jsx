@@ -44,11 +44,11 @@ export default function HomePage() {
       <div className="border-t border-white/8 bg-[#111] py-4 px-4">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-center gap-2 text-center">
           <span className="font-mono text-[10px] tracking-widest uppercase text-accent">
-            Test Mode
+            @IIndigo.graphic ·
           </span>
           <span className="text-gray-600 hidden sm:block">·</span>
           <span className="font-mono text-[10px] text-gray-500">
-            Use card: 4242 4242 4242 4242 · Any future date · Any CVC
+            Secure checkout powered by Stripe
           </span>
         </div>
       </div>
